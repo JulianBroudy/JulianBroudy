@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Julian's github stats](https://github-readme-stats.vercel.app/api?username=JulianBroudy)](https://github.com/JulianBroudy/github-readme-stats)
+[![Julian's github stats](https://github-readme-stats.vercel.app/api?username=JulianBroudy&hide=["stars","prs"])](https://github.com/JulianBroudy)
 
 <!--
 **JulianBroudy/JulianBroudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
