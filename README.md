@@ -3,7 +3,7 @@
 
 https://github.com/JulianBroudy/JulianBroudy/assets/46682375/0aa5a6e2-f929-4fc9-8660-82b23669a483
 
-![Uploading Who is Julian Broudy.gif…]()
+https://github.com/JulianBroudy/JulianBroudy/blob/master/Who%20is%20Julian%20Broudy.gif
 
 
 ![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianBroudy&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent)
