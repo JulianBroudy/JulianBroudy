@@ -1,5 +1,11 @@
 ### Hi there 👋
+https://github.com/JulianBroudy/JulianBroudy/assets/46682375/808a56e6-9830-44e9-8754-e9c4a144e582
+
 ![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianBroudy&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent)
+[Broudy.io](https://broudy.io/)
+
+
+
 
 <!--
 **JulianBroudy/JulianBroudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
