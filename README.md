@@ -1,19 +1,20 @@
 ### Hi there 👋
 
-
+## Who am I:
 https://github.com/JulianBroudy/JulianBroudy/assets/46682375/0aa5a6e2-f929-4fc9-8660-82b23669a483
-
-![Who is Julian Broudy](https://github.com/JulianBroudy/JulianBroudy/blob/master/Who%20is%20Julian%20Broudy.gif)
-
+(Though not perfectly accurate, true by May 2023)
 
 
-![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianBroudy&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent)
-[Broudy.io](https://broudy.io/)
 
 
 
 
 <!--
+
+
+![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulianBroudy&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent)
+[Broudy.io](https://broudy.io/)
+
 **JulianBroudy/JulianBroudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
