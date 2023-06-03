@@ -1,11 +1,6 @@
-## Hello fellow human 😈😇
+## Hello fellow human 😇😈
 
-https://github.com/JulianBroudy/JulianBroudy/assets/46682375/0aa5a6e2-f929-4fc9-8660-82b23669a483
-
-(Though not perfectly accurate, true by May 2023)
-
-
-
+https://github.com/JulianBroudy/JulianBroudy/assets/46682375/1dfa54a1-f030-440c-a0cc-1a43326e9c58
 
 
 
