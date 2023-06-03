@@ -3,6 +3,10 @@
 For immersive experience, unmute video...
 
 https://github.com/JulianBroudy/JulianBroudy/assets/46682375/1dfa54a1-f030-440c-a0cc-1a43326e9c58
+<video width="320" height="240" autoplay>
+  <source src="https://github.com/JulianBroudy/JulianBroudy/assets/46682375/1dfa54a1-f030-440c-a0cc-1a43326e9c58" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 
