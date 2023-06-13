@@ -2,9 +2,7 @@
 
 For immersive experience, unmute video...
 
-https://github.com/JulianBroudy/JulianBroudy/assets/46682375/1dfa54a1-f030-440c-a0cc-1a43326e9c58
-
-
+https://github.com/JulianBroudy/JulianBroudy/assets/46682375/7f3a6cdb-1848-480e-ac39-a511f5074440
 
 
 <!--
