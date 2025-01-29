@@ -1,9 +1,6 @@
 ## Hello fellow human 😇😈
 
-For immersive experience, unmute video...
 
-
-https://github.com/JulianBroudy/JulianBroudy/assets/46682375/76054523-4563-47e2-9bf8-3b944bad52fa
 
 
 <!--
